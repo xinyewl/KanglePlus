@@ -1,0 +1,5 @@
+#!/bin/bash
+wget --no-check-certificate -O sakura.sh https://github.com/xinyewl/KanglePlus/raw/master/kangle/master/sakura.sh
+bash sakura.sh
+
+
